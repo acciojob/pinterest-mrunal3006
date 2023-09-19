@@ -11,6 +11,7 @@
 
 /* Style the hero image */
 .hero img {
+	object-fit: cover;
     width: 50%;
 	height: 50%;
 	top-margin: 3px;
